@@ -1,7 +1,7 @@
 # ESPLeaf
-ESP8266 based Nanoleaf Control board. Custom implementation over attiny85 using onewire
+ESP8266 based Nanoleaf-like control board. Custom implementation of leaves using attiny85 implementing onewire for data transmission.
 # Schematics
 
-# Idea 
-
 # Protocol
+
+# Photos
